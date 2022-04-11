@@ -2,6 +2,15 @@
 
 Class 74, Qilin middle school, Nanshan experimental education group.
 
+## 前言
+
+### 贡献名单
+
+1.lyc，网站的制造者，~~这句话貌似也是他写的~~，~~上句说上句话是他写的那句话似乎也是他写的~~，~~上句说上句的上局是他写的那句话是他写的貌似也是他写的~~。
+
+
+### 关于这个网站
+
 ## 班级介绍
 
 班徽：
@@ -63,8 +72,10 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 ## 后记
 
-目前正在测试当中，开发者李源宸。
+目前正在测试当中，开发者lyc。
 
 > 完蛋玩意
 
 给个:+1:吧。
+
+对内容有建议的可以通过各种方式联系lyc，对于正确的建议提供者，将加在贡献名单。
