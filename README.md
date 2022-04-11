@@ -51,11 +51,11 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 #### 初三
 
-~~目前没有考虑写~~
+~~目前没有考虑写，问国欣可能也没用~~
 
 #### 初三之后
 
-~~目前也没有考虑写~~
+~~目前也没有考虑写，问国欣可能更没用~~
 
 ## 相关链接
 
