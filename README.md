@@ -11,6 +11,10 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 ### 关于这个网站
 
+~~这只是给班里同学看的，没必要推广（~~
+
+有很多想写的东西因为机制问题无法写出来。
+
 ## 班级介绍
 
 班徽：
