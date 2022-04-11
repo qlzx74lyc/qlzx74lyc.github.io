@@ -17,6 +17,8 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 有很多想写的东西因为机制问题无法写出来。
 
+记录的是我们班的中学生活的点滴，可能有些琐碎，但希望这能成为大家美好的回忆。
+
 ## 班级介绍
 
 班徽：
