@@ -1,5 +1,5 @@
-## qlzx
+## qlzx74
 
-麒麟中学网站测试。
+Class 74, Qilin middle school, Nanshan experimental education group.
 
-敬请期待。
+
