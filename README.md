@@ -1,6 +1,7 @@
 # qlzx74
 
 Class 74, Qilin middle school, Nanshan experimental education group.
+
 南山实验教育集团麒麟中学74班官网。
 
 ## 前言
@@ -68,6 +69,7 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 | 41 | 王博楷 | 男 | 2021/9/1~至今 |
 | 42 | 李荣晖 | 男 | 2021/9/1~至今 |
 | 43 | 张思扬 | 女 | 2021/9/1~至今 |
+| 44 | 潘可可 | 女 | 2021/9/1~至今 |
 | 45 | 李源宸 | 男 | 2021/9/1~至今 |
 | 46 | 佘李 | 女 | 2021/9/1~至今 |
 | 47 | 于瑶 | 女 | 2021/9/1~至今 |
