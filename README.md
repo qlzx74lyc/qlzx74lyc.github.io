@@ -105,6 +105,8 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 ### 历史
 
+#### 初一
+
 2021/9/1 我们第一次走进初中校园。
 
 2021/9/6 第一节课。
@@ -126,6 +128,14 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 2022/4/7 通知15日开学。~~痛苦面具~~
 
 2022/4/11 开始编写这个网站（这算历史吗）
+
+#### 初二
+
+~~目前没有考虑写~~
+
+#### 初三
+
+~~目前没有考虑写~~
 
 几乎是混乱的，要看~~史前文献~~半年前的东西才知道。
 
