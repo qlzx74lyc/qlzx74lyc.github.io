@@ -22,6 +22,12 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 这是一个进步开放的团体，拿到了很多奖项，~~也非常卷~~。
 
+### 历史
+
+2021/9/1 我们第一次走进初中校园
+
+2021/9/6 第一节课 
+
 ### 奖项列举
 
 #### 初一之前
@@ -82,4 +88,8 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 给个:+1:吧。
 
-对内容有建议的可以通过各种方式联系lyc，对于正确的建议提供者，将加在贡献名单。
+对内容有建议的可以通过各种方式联系lyc，对于正确且有必要的建议的提供者，将加在贡献名单。
+
+第一次编辑：2022/4/11 19:34
+
+
