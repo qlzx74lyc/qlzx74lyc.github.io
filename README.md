@@ -58,6 +58,12 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 2021/9/6 第一节课。
 
+2021/11/19 第一次广播操比赛。
+
+2021/11/21 第一次运动会开始。
+
+2021/11/26 第一次运动会结束。
+
 2022/1/10 第一个寒假开始。
 
 2022/2/1 第一个新春。
@@ -67,6 +73,8 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 2022/2/21 寒假结束，因为疫情，开始线上授课。
 
 2022/4/7 通知15日开学。~~痛苦面具~~
+
+2022/4/11 开始编写这个网站（这算历史吗）
 
 几乎是混乱的，要看~~史前文献~~半年前的东西才知道。
 
