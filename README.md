@@ -24,7 +24,7 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 班徽：
 ![](https://cdn.luogu.com.cn/upload/image_hosting/h89cxziy.png)
 
-这是一个进步开放的团体，拿到了很多奖项，~~也非常卷~~。
+这是一个进步开放的团体，是一个优秀的团体，其中也有很多突出的个体，~~也非常卷~~。
 
 ### 同学名单(小学同学标粗)
 
