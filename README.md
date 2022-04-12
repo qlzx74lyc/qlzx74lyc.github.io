@@ -217,6 +217,8 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 貌似线下上课之后直接跟我说就可以了。
 
+[dino](chrome://dino/)
+
 * 第一次编辑：2022/4/11 19:34
 
     * 写出大纲
