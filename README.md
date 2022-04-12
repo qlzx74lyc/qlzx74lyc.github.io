@@ -234,3 +234,7 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 * 第三次编辑：咕咕咕
 
+访问次数：
+
+![](https://www.mfwztj.com/hit.php?id=zemuxood&nd=6&style=1)
+
