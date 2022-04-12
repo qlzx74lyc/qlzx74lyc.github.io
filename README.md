@@ -199,7 +199,7 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 目前正在测试当中，开发者lyc。
 
-后台暂时关闭，想要权限的可以线下交流。
+后台关闭，想要权限的可以线下交流。
 
 > 完蛋玩意
 
