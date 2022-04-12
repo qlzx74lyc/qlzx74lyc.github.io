@@ -2,7 +2,22 @@
 
 Class 74, Qilin middle school, Nanshan experimental education group.
 
-南山实验教育集团麒麟中学74班官网。
+南山实验教育集团麒麟中学74班官网（其实是学生做的）。
+
+目录：
+* 前言
+    * 贡献名单
+    * 关于这个网站
+* 班级介绍
+    * 同学名单
+    * 老师名单（未完成）
+    * 人数
+    * 历史（未完成）
+        * 初一之前
+        * 初一
+    * 奖项列举
+        * 初一之前
+        * 初一
 
 ## 前言
 
@@ -232,7 +247,10 @@ Class 74, Qilin middle school, Nanshan experimental education group.
         * 加入历史
         * 加入前言和后记
 
-* 第三次编辑：咕咕咕
+* 第三次编辑：2022/4/12 15:27
+
+    * 添加目录
+    * 有人说我这个是广告，ban了他的IP
 
 访问次数：
 
