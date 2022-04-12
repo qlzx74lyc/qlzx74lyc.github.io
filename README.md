@@ -95,7 +95,7 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 | 音乐 | 刘迎新 | 2021/9/1~至今 |
 | 美术 | 肖胡云 | 2021/9/1~至今 |
 
-
+注：体育老师和道法老师为男老师，其余为女老师。
 
 ### ~~人口~~人数
 
