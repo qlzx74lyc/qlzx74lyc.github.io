@@ -137,7 +137,7 @@ Class 74, Qilin middle school, Nanshan experimental education group.
 
 2021/11/26 第一次运动会结束。
 
-2021/?/? 夏春老师~~繁衍后代~~生宝宝了！
+2021/12/? 夏春老师~~繁衍后代~~生宝宝了！
 
 2022/1/10 第一个寒假开始。
 
